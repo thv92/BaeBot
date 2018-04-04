@@ -1,1 +1,1 @@
-web: bin/hubot -a matteruser
+web: bin/hubot -a discord
